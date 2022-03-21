@@ -1,0 +1,47 @@
+.id{
+    font-size: large;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+}
+
+.insta{
+    display:flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+.profile{
+    display:flex;
+}
+
+.footer{
+    margin-top: 30px;
+
+}
+.numbers{
+    display: flex;
+    font-size: 20px;
+    justify-content: space-between;
+}
+.index{
+    display: flex;
+    font-size: 15px;
+    justify-content: space-between;
+
+}
+
+.image img{
+    width:100px;
+    height:100px;
+
+}
+.feed img{
+    width:470px;
+    height:700px;
+
+}
+
+.text span{
+    font-weight: bolder;
+}
